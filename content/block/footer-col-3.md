@@ -1,3 +1,4 @@
-#### Footer col 3
+#### Sidversion
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+v. 1.0.1  
+[GitHub](https://github.com/mbjvs/oophp)  
